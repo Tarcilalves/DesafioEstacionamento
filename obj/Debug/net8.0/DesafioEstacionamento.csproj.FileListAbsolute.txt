@@ -12,3 +12,4 @@ C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\refin
 C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.pdb
 C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.genruntimeconfig.cache
 C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\ref\DesafioEstacionamento.dll
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.sourcelink.json

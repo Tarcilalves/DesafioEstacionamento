@@ -43,8 +43,8 @@ namespace DesafioEstacionamento.Models
                 {
                     decimal valorTotal = precoInicial + precoPorHora * horas;
 
-                    // Remove a placa digitada da lista de veículos
-                    veiculos.Remove(placa);
+                    // Remove a placa digitada da lista de veículos (comparação de cultura invariável)
+                    veiculos.RemoveAll(x => string.Equals(x, placa, StringComparison.InvariantCultureIgnoreCase));
 
                     Console.WriteLine($"O veículo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
                 }
