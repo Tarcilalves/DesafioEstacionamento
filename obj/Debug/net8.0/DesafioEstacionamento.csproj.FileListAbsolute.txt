@@ -1,0 +1,14 @@
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.exe
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.deps.json
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.runtimeconfig.json
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.dll
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\bin\Debug\net8.0\DesafioEstacionamento.pdb
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.AssemblyInfo.cs
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.dll
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\refint\DesafioEstacionamento.dll
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.pdb
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.genruntimeconfig.cache
+C:\Users\User\Documents\projetosDIO\DesafioEstacionamento\obj\Debug\net8.0\ref\DesafioEstacionamento.dll
