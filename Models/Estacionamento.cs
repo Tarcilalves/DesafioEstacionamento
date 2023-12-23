@@ -19,6 +19,8 @@ namespace DesafioEstacionamento.Models
         
             if (placa != null)
             {
+                // Converte a placa para maiúsculas antes de adicionar à lista
+                placa = placa.ToUpper();
                 veiculos.Add(placa);
                 Console.WriteLine($"Veículo {placa} adicionado com sucesso!");
             }
